@@ -185,6 +185,7 @@ const SystemNavbar = () => {
             css={`
               display: flex;
               height: 100%;
+              visibility: hidden;
             `}
           >
             Partnered with &nbsp;&nbsp;
@@ -273,6 +274,7 @@ const SystemNavbar = () => {
             css={`
               display: flex;
               height: 100%;
+              visibility: hidden;
             `}
           >
             Partnered with &nbsp;&nbsp;
